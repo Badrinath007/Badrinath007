@@ -42,4 +42,4 @@ Verilog • ModelSim • Quartus • Linux • Git
 ---
 
 📌 Looking for: RTL Design / FPGA / VLSI roles  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
+🔗 LinkedIn: https://www.linkedin.com/in/badrinatha/
