@@ -28,7 +28,7 @@ AXI • CDC • Verilog • FPGA
 ## 🧠 Core Understanding
 - Setup vs Hold timing
 - Metastability & synchronization
-- AXI protocol behavior
+- AXI/UART protocol behavior
 - RTL design fundamentals
 
 ---
