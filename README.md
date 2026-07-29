@@ -22,10 +22,6 @@ AXI • CDC • Verilog • FPGA
 → ADD, SUB, LW, SW execution, register + memory interaction  
 [riscv](https://github.com/Badrinath007/riscv-cpu-ai-monitor)
 
-🔹 CDC Synchronizer  
-→ 2-FF sync, metastability handling, dual-clock testbench  
-
-
 ---
 
 ## 🧠 Core Understanding
